@@ -1,0 +1,9 @@
+## Interface: 110000
+## Title: ATT Toy Tracker
+## Notes: Export toy ownership + locations from All The Things (ATT)
+## Author: Jane Miceli
+## Version: 0.5
+## Dependencies: AllTheThings
+## SavedVariables: ATT_ToyTrackerDB
+
+ATT_ToyTracker.lua
